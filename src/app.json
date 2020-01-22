@@ -1,0 +1,35 @@
+{
+    "pages": [
+        "pages/index/main",
+        "pages/login/main",
+        "pages/web/main",
+        "pages/remain/main",
+        "pages/servant/main",
+        "pages/method/main",
+        "pages/pass/main",
+        "pages/obtain/main",
+        "pages/waiter/main",
+        "pages/money/main",
+        "pages/discount/main",
+        "pages/help/main",
+        "pages/order/main",
+        "pages/list/main",
+        "pages/navigation/main",
+        "pages/user/main",
+        "pages/logs/main",
+        "pages/counter/main",
+        "pages/network/main",
+        "pages/forget/main"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#89E495",
+        "navigationBarTitleText": "龙享物联",
+        "navigationBarTextStyle": "black"
+    },
+    "permission": {
+        "scope.userLocation": {
+            "desc": "你的位置信息将用于小程序位置接口的效果展示"
+        }
+    }
+}
